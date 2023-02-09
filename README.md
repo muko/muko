@@ -1,16 +1,14 @@
-### Hi there 👋
+### Japanese Translation
 
-<!--
-**muko/muko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The following technical documents have been translated into Japanese.
 
-Here are some ideas to get you started:
+以下の技術文書の日本語化を行っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### OpenGL® 4.5 リファレンスページ (OpenGL® 4.5 Reference Pages)
+
+* http://muko.damember.org/gl4/index-ja.php
+
+#### デバイスツリー仕様書 (Devicetree Specification)
+
+*  http://muko.damember.org/devicetree-specification/
+ 
