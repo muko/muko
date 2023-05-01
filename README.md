@@ -10,5 +10,12 @@ The following technical documents have been translated into Japanese.
 
 #### デバイスツリー仕様書 (Devicetree Specification)
 
-*  http://muko.damember.org/devicetree-specification/
- 
+* http://muko.damember.org/devicetree-specification/
+
+#### rauc
+
+* http://muko.damember.org/rauc/
+
+#### swupdate
+
+* http://muko.damember.org/swupdate/
